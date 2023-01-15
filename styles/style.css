@@ -232,13 +232,14 @@ padding: 50px;
     {
         flex-direction: column;
     }
-    .banner-img{
+   .banner .banner-img{
         width: 668px;
       
 
     }
     .banner{
-        padding: 0px;
+        padding-left: 0px;
+        
     }
 .team-work .grid{
     grid-template-columns: repeat(1,1fr);
