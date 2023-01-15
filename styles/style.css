@@ -133,3 +133,63 @@ border-radius: 20px;
 border: none;
 
     }
+
+    /* some facts section  */
+
+    .facts-info{
+        position: relative;
+        top: -200px;
+        height: 30px;
+        width: 450px;
+    }
+    .facts-icon{
+        display: flex;
+        gap: 50px;
+        justify-content: center;
+        align-items: center;
+        margin-top: -50px;
+        margin-left: 50px;
+    }
+.icon-des{
+    width: 250px;
+    height: 180px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    padding: 30px;
+    text-align: center;
+        }
+.icons-sub-title{
+            font-size: 20px;
+            color: #727272;
+            font-weight: 700;
+               }
+
+               /* sponsors */
+ .sponsor {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+ }             
+ .sponsor-title{
+    font-size: 40px;
+    font-weight: 900;
+ }
+ .sponsor-image{
+    display: flex;
+    justify-content: center;
+    gap: 80px ;
+    margin-top: 100px;
+ }
+ .image{
+    mix-blend-mode: luminosity;
+ }
+
+ /* footer section  */
+
+ footer{
+    margin-top: 100px;
+    background-color: rgba(255, 144, 14, 0.1); 
+height: 100px;
+text-align: center;
+padding: 50px;
+ }
