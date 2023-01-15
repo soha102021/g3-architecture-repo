@@ -233,7 +233,7 @@ padding: 50px;
         flex-direction: column;
     }
     .banner-img{
-        width: 100%;
+        width: 668px;
         height: auto;
 
     }
@@ -248,7 +248,7 @@ padding: 50px;
     height: auto;
 }
 .arc-img{
-    width: 100%;
+    width: 668px;
     height: auto;
 }
 .arc-button{
@@ -272,4 +272,7 @@ padding: 50px;
     height: auto;
     width: 100%;
 }  
+     .facts-icon{
+         margin-left:0px;
+     }
  }
